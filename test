@@ -1,0 +1,9 @@
+#!/bin/bash
+
+#comment
+
+echo "Print a numbers"
+read x
+echo "Printed number is " $x
+
+
